@@ -1,1 +1,1 @@
-# Ideal
+# e-Commerce web application
